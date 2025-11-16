@@ -4,7 +4,7 @@ A modern React-based employee management dashboard with search, view, and delete
 
 ## Features
 
-- 📊 **Employee Dashboard**: View all employees in a card-based layout
+- 📊 Employee Dashboard: View all employees in a card-based layout
 - 🔍 **Search by ID**: Find employees quickly using their ID
 - 👤 **Employee Details**: Click on any card to view detailed employee information
 - 🗑️ **Delete Functionality**: Remove employees from the state (single or bulk)
